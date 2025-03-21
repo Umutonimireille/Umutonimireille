@@ -10,7 +10,7 @@
 - 🌱 Currently exploring **USSD-based applications and AI integrations**
 
 ### 📂 Check Out My Work
-🔗 **Portfolio:** [mireille-1-0-0.vercel.app](https://mireille-1-0-0.vercel.app/)
+🔗 **Portfolio:** [mireille.vercel.app](https://mireille.vercel.app/)
 
 📜 **Resume:** [Click here](https://docs.google.com/document/d/1zAZhkuD6hDc8y2fXNE3UD15xK5Gty7G07B8t1u5Xq70/edit?tab=t.0#heading=h.io9lz04zzso1))_
 
